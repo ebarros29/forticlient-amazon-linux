@@ -14,7 +14,7 @@ Clone this repository and run the script:
 git clone https://github.com/eebarros/forticlient-amazon-linux
 cd forticlient-amazon-linux
 sudo chmod +x deploy_forticlient.sh
-./forticlient_deploy.sh
+./deploy_forticlient.sh
 ```
 
 ## Authors
