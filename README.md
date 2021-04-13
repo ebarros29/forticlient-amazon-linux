@@ -1,2 +1,2 @@
 # forticlient-aws-linux
-Install Forticlient VPN on AWS Linux
+Install Forticlient VPN on Amazon Linux Workstation
